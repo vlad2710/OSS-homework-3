@@ -1,0 +1,16 @@
+.todo-list{
+    width: 400px;
+    margin: 0 auto;
+}
+
+.todo-list > ul{
+    list-style: none;
+    padding: 0;
+}
+
+.todo-list__input{
+    width: 200px;
+    padding: 10px;
+    font-size: 15px;
+    border-radius: 5px;
+}
